@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://maksimteg.github.io/csb-emkzq/static/css/main.21d3698a.chunk.css",
+    "main.js": "https://maksimteg.github.io/csb-emkzq/static/js/main.566ff9e3.chunk.js",
+    "main.js.map": "https://maksimteg.github.io/csb-emkzq/static/js/main.566ff9e3.chunk.js.map",
+    "runtime-main.js": "https://maksimteg.github.io/csb-emkzq/static/js/runtime-main.b8242476.js",
+    "runtime-main.js.map": "https://maksimteg.github.io/csb-emkzq/static/js/runtime-main.b8242476.js.map",
+    "static/css/2.43f5134f.chunk.css": "https://maksimteg.github.io/csb-emkzq/static/css/2.43f5134f.chunk.css",
+    "static/js/2.483d3dc5.chunk.js": "https://maksimteg.github.io/csb-emkzq/static/js/2.483d3dc5.chunk.js",
+    "static/js/2.483d3dc5.chunk.js.map": "https://maksimteg.github.io/csb-emkzq/static/js/2.483d3dc5.chunk.js.map",
+    "index.html": "https://maksimteg.github.io/csb-emkzq/index.html",
+    "static/css/2.43f5134f.chunk.css.map": "https://maksimteg.github.io/csb-emkzq/static/css/2.43f5134f.chunk.css.map",
+    "static/css/main.21d3698a.chunk.css.map": "https://maksimteg.github.io/csb-emkzq/static/css/main.21d3698a.chunk.css.map",
+    "static/js/2.483d3dc5.chunk.js.LICENSE.txt": "https://maksimteg.github.io/csb-emkzq/static/js/2.483d3dc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8242476.js",
+    "static/css/2.43f5134f.chunk.css",
+    "static/js/2.483d3dc5.chunk.js",
+    "static/css/main.21d3698a.chunk.css",
+    "static/js/main.566ff9e3.chunk.js"
+  ]
+}
